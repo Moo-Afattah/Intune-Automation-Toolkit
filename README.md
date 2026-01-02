@@ -19,3 +19,13 @@ This toolkit provides reporting, device lifecycle automation, Autopilot manageme
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🛠 Requirements
+
+- PowerShell 5.1 or PowerShell 7+
+- Microsoft Graph PowerShell SDK  
+  Install with:
+  ```powershell
+  Install-Module Microsoft.Graph -Scope CurrentUser -Force
