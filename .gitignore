@@ -1,0 +1,29 @@
+# Ignore PowerShell history
+*.pshistory
+
+# Ignore generated reports
+Reports/
+*.html
+*.csv
+*.xml
+
+# Ignore logs
+*.log
+
+# Ignore temp files
+*.tmp
+*.bak
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore PowerShell module cache
+*.psd1
+*.psm1
+
+# Ignore compiled PowerShell scripts
+*.ps1xml
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
